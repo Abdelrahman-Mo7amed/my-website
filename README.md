@@ -122,8 +122,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/abdelrhmanmohmed)
-- **GitHub**: [Your GitHub](https://github.com/Abdelrahman-Mo7amed)
+- **Email**: amohamed.dataanalyst@gmail.com
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/abdelrhmanmohmed)
+- **GitHub**: [My GitHub](https://github.com/Abdelrahman-Mo7amed)
 
 Thank you for visiting my website repository!

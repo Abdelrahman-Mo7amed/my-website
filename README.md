@@ -1,13 +1,11 @@
 # My Personal Website
+Welcome to the repository for my personal website. This website showcases my portfolio, skills, and contact information. You can view the live site [here](https://YOUR_USERNAME.github.io/REPOSITORY_NAME/).
 
 ![Website](Preview.png)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Abdelrahman-Mo7amed/my-website)
 ![GitHub contributors](https://img.shields.io/github/contributors/Abdelrahman-Mo7amed/my-website)
 ![GitHub stars](https://img.shields.io/github/stars/Abdelrahman-Mo7amed/my-website?style=social)
-
-
-Welcome to the repository for my personal website. This website showcases my portfolio, skills, and contact information. You can view the live site [here](https://YOUR_USERNAME.github.io/REPOSITORY_NAME/).
 
 ## About Me
 
@@ -16,8 +14,8 @@ Hello! I'm Abdelrahman Mohamed, a passionate Data Analyst and Scientist with exp
 ## Contact Details
 
 - **Email**: amohamed.dataanalyst@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/abdelrhmanmohmed)
-- **GitHub**: [Your GitHub](https://github.com/Abdelrahman-Mo7amed)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/abdelrhmanmohmed)
+- **GitHub**: [My GitHub](https://github.com/Abdelrahman-Mo7amed)
 
 ## Table of Contents
 

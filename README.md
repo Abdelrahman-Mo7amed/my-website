@@ -1,5 +1,5 @@
 # My Personal Website
-Welcome to the repository for my personal website. This website showcases my portfolio, skills, and contact information. You can view the live site [here](https://YOUR_USERNAME.github.io/REPOSITORY_NAME/).
+Welcome to the repository for my personal website. This website showcases my portfolio, skills, and contact information. You can view the live site [here](https://abdelrahman-mo7amed.github.io/my-website/).
 
 ![Website](Preview.png)
 
@@ -86,7 +86,7 @@ The website is deployed using GitHub Pages. Follow these steps to deploy your ow
     - Scroll down to the "Pages" section.
     - Under "Source", select the `main` branch and click "Save".
 
-After a few moments, your website will be available at `https://YOUR_USERNAME.github.io/REPOSITORY_NAME/`.
+After a few moments, your website will be available at `https://YOUR_USERNAME.github.io/my-website/`.
 
 ## Contributing
 
